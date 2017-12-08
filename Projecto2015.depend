@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1433287367 source:c:\users\joão\desktop\aulas\ppp\aulas\projecto2015\auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+	<Windows.h>
+
+1433287754 c:\users\joão\desktop\aulas\ppp\aulas\projecto2015\header.h
+	<time.h>
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1433287367 source:c:\users\joão\desktop\aulas\ppp\aulas\projecto2015\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<time.h>
+	<Windows.h>
+
